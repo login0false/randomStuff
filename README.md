@@ -1,1 +1,1 @@
-Random stuff that I want other software to access.
+Random stuff that I want various programs to access.
