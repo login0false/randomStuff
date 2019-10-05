@@ -83,6 +83,7 @@
   ],
   "biomesoplenty.common.entities.EntityRosester": [
     "float|-0.114,true"
+    "hostile"
   ],
   "biomesoplenty.common.entities.EntityWasp": [
     "fly|true",
